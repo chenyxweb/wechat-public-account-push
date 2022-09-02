@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxc38696db0be83af0",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "9cd580dc60b62e78ae1c11122eb2c99a",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "25RgVRJjT2hXDwjuzngVKe5Nqeb2wDp31tcugnUvCP4",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "",
@@ -24,14 +24,12 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
+      {name: '莉莉莉', id: "o0hPt6sW6eCqgiDroRSOUZdgIOUw"}, 
+      {name: '翔翔翔', id: "o0hPt6gG80qFF9LcXi68bufOPWlY"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "o0hPt6gG80qFF9LcXi68bufOPWlY"}, 
     ],
      
     /**
@@ -41,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "上海市",
     // 所在城市
-    CITY: "惠州",
+    CITY: "上海市",
 
     /** 重要节日相关 */
 
@@ -54,10 +52,8 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+      {"type": "生日", "name": "老婆", "year": "1997", "date": "02-20"},
+      {"type": "节日", "name": "在一起的日子", "year": "2020", "date": "04-30"},
     ],
 
     /**
