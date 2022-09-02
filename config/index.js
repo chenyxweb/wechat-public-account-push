@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "上海市",
+    PROVINCE: "上海",
     // 所在城市
-    CITY: "上海市",
+    CITY: "上海",
 
     /** 重要节日相关 */
 
