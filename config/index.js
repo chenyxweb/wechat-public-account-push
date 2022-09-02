@@ -53,7 +53,7 @@ export const config = {
      */
     FESTIVALS: [
       {"type": "生日", "name": "老婆", "year": "1997", "date": "02-20"},
-      {"type": "节日", "name": "在一起的日子", "year": "2020", "date": "04-30"},
+      // {"type": "节日", "name": "在一起的日子", "year": "2020", "date": "04-30"},
     ],
 
     /**
@@ -71,11 +71,11 @@ export const config = {
       * */
     CUSTOMIZED_DATE_LIST: [
       // 在一起的日子
-      {"keyword": "love_day", date: "2015-05-01"},
+      {"keyword": "love_day", date: "2020-04-30"},
       // 结婚纪念日
-      {"keyword": "marry_day", date: "2020-01-04"},
+      // {"keyword": "marry_day", date: "2020-01-04"},
       // 退伍日, 不用可以删掉
-      {"keyword": "ex_day", date: "2022-08-31"},
+      // {"keyword": "ex_day", date: "2022-08-31"},
       // sakana日
       // {"keyword": "sakana_day", date: "2022-01-06"},
       // ... 
